@@ -1,0 +1,11 @@
+# unnecessary folders #
+#######################
+bin/
+obj/
+
+# unnecessary files #
+#####################
+main.s
+wohnungsrechner.cbp
+wohnungsrechner.depend
+wohnungsrechner.layout
